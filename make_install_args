@@ -1,0 +1,1 @@
+IPEPREFIX=/usr IPELIBDIR=/usr/lib64 LUA_PACKAGE=lua
