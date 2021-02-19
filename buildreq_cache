@@ -1,4 +1,5 @@
-7.2.13
+7.2.23
+gsl-dev
 libjpeg-turbo-dev
 pkgconfig(Qt5Core)
 pkgconfig(Qt5Gui)
@@ -6,5 +7,5 @@ pkgconfig(Qt5Widgets)
 pkgconfig(cairo)
 pkgconfig(freetype2)
 pkgconfig(libpng)
+pkgconfig(libspiro)
 pkgconfig(zlib)
-zlib-dev
