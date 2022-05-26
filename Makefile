@@ -1,5 +1,5 @@
 PKG_NAME := ipe
-URL = https://dl.bintray.com/otfried/generic/ipe/7.2/ipe-7.2.23-src.tar.gz
+URL = https://github.com/otfried/ipe/releases/download/v7.2.24/ipe-7.2.24-src.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
