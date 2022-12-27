@@ -1,9 +1,12 @@
 7.2.26
 gsl-dev
+libjpeg-turbo-dev
 pkgconfig(Qt5Core)
 pkgconfig(Qt5Gui)
 pkgconfig(Qt5Widgets)
 pkgconfig(QtSpell-qt5)
+pkgconfig(cairo)
+pkgconfig(freetype2)
 pkgconfig(gsl)
 pkgconfig(libpng)
 pkgconfig(libspiro)
