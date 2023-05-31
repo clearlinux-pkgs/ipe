@@ -4,7 +4,7 @@
 #
 Name     : ipe
 Version  : 7.2.26
-Release  : 8
+Release  : 9
 URL      : https://github.com/otfried/ipe/releases/download/v7.2.26/ipe-7.2.26-src.tar.gz
 Source0  : https://github.com/otfried/ipe/releases/download/v7.2.26/ipe-7.2.26-src.tar.gz
 Summary  : No detailed summary available
